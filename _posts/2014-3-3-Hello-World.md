@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Como conseguir rios de tráfego: Passo 1...
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Quando criei este site o meu objetivo era passar os meus conhecimentos sobre marketing digital. E sobretudo ajudar bloggers iniciantes a terem audiencia.
+
+Mas ao contrário do que muitos pensam, <strong>conseguir tráfego não é fácil
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
